@@ -1,0 +1,58 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+body{
+    margin:10% auto;
+}
+
+h1{
+    font-size: xx-large;
+    color: aliceblue;
+}
+/*按钮*/
+#query{
+    background-color: darkslategrey;
+    border: aliceblue;
+}
+
+body{
+    background-color: darkslategray;
+}
+
+table{
+    border-style: none;
+    width: 960px;
+    border-radius: 13px;
+    background: rgb(58, 136, 138);
+    box-shadow:  44px 44px 88px rgb(58, 136, 138),
+             -44px -44px 88px rgb(58, 136, 138);
+}
+
+th{
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    color: ghostwhite;
+}
+
+.Operater{
+    width: 140px;
+}
+
+button{
+    border: dotted;
+    border-radius: 13px;
+    border-color: aliceblue;
+    background-color: transparent;
+    color: aliceblue;
+}
+
+button:hover{
+    border: dotted;
+    border-radius: 13px;
+    border-color: aliceblue;
+    background-color:yellow;
+    color:magenta;
+}

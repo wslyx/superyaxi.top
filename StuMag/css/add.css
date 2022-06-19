@@ -1,0 +1,58 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+h3{
+    color: aliceblue;
+    font-size:xx-large;
+}
+
+th {
+    border-radius: 13px;
+}
+
+table{
+    background: rgb(58, 136, 138);;
+    border-radius: 13px;
+}
+
+button {
+    color: greenyellow;
+    border: none;
+    background-color: transparent;
+    transition-duration: 0.5s;
+    border-radius: 13px;
+    padding: 13px 18px;
+    margin-top: 20px;
+    outline-style: none;
+}
+
+button:hover {
+    border: none;
+    background: yellow;
+    color: magenta;
+    transition-duration: 0.5s;
+}
+
+input{
+    border:darkgoldenrod;
+    background-color: transparent;
+    border-radius: 13px;
+    border-style: dotted;
+}
+
+select{
+    border:darkgoldenrod;
+    background-color: transparent;
+    border-radius: 13px;
+    border-style: dotted;
+}
+
+body {
+    width: 1000px;
+    height: 60%;
+    position:relative;
+    margin:10% auto;
+    background-color: darkslategray;
+}

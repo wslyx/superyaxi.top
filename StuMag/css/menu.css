@@ -1,0 +1,19 @@
+* {
+    color: chartreuse;
+}
+
+
+/*按钮*/
+#query{
+    background-color: darkslategrey;
+    border: aliceblue;
+}
+
+body{
+    background-color: darkslategray;
+}
+
+table{
+    border-style: dotted;
+    border-color: darkorange;
+}
